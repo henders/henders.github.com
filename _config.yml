@@ -1,0 +1,12 @@
+# Site settings
+title: 42 Dragons
+email: henders@gmail.com
+description: "My github site for describing my random projects."
+baseurl: ""
+url: "http://henders.github.io"
+markdown: redcarpet
+highlighter: pygments
+
+# Build settings
+#markdown: kramdown
+permalink: pretty
